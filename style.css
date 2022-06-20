@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main1 {
+  background-color: rgb(178, 176, 176);
+  min-height: 100vh;
+  position: relative;
+}
+
+/* .white1 { */
+/* } */
+
+.bitcoinlogo {
+  height: 200px;
+  border-radius: 10%;
+  box-shadow: 5px 5px 2px 2px rgb(87, 87, 244);
+}
+.bitco {
+  height: 30px;
+  border-radius: 40%;
+  /* margin-left: 60px; */
+  /* margin-top: 50px; */
+  /* padding-left: 60px; */
+  /* padding-top: 30px; */
+}
+.white {
+  background-color: white;
+  /* height: 25rem; */
+  width: 60rem;
+  margin: auto;
+  border-radius: 8px 8px 0px 0px;
+  justify-content: center;
+  gap: 30px;
+  padding: 1rem;
+  padding-left: 5rem;
+  padding-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.black {
+  background-color: black;
+  /* height: 7rem; */
+  width: 60rem;
+  margin: auto;
+  border-radius: 0px 0px 8px 8px;
+  color: white;
+  display: flex;
+  gap: 2.5rem;
+  justify-content: center;
+  /* padding-top: 1rem; */
+  padding: 3rem;
+}
+
+/* .button-section { */
+/* display: flex; */
+/* align-items: center; */
+/* } */
+.shadow {
+  background-color: #e4e7e4;
+  height: 3rem;
+  width: 60rem;
+  margin: auto;
+  position: absolute;
+  left: 10.8rem;
+  transform: rotateZ(2.5deg);
+  border-radius: 8px;
+  top: 3rem;
+}
+.whiteblack {
+  padding: 1rem;
+  position: relative;
+}
+.watchvideo {
+  color: blue;
+  display: inline;
+  background-color: white;
+}
+.playicon {
+  padding-top: 2rem;
+}
+
+.nav-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* padding: 55px; */
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+}
+
+.join-now-button {
+  padding: 10px 20px;
+  background-color: rgb(87, 87, 244);
+  color: white;
+  border: none;
+  border-radius: 2px;
+}
+
+.get-started-button {
+  padding: 10px 20px;
+  background-color: rgb(87, 87, 244);
+  color: white;
+  border: none;
+  border-radius: 2px;
+  margin-right: 10px;
+}
+
+.learning {
+  color: rgb(184, 177, 177);
+}
+.learning2 {
+  color: rgb(184, 177, 177);
+}
+.learning3 {
+  color: rgb(184, 177, 177);
+  /* padding-right: 2.5rem; */
+}
+
+.logo-img {
+  height: 1rem;
+  margin-left: -35px;
+
+}
+img {
+  height: 1rem;
+
+}
+
+
+.currencies {
+  background-color: rgba(96, 96, 253, 0.648);
+  height: 7px;
+  width: 9.3rem;
+  position: relative;
+  top: -10px;
+  border: none;
+  /* text-decoration: underline rgb(87, 87, 244); */
+}
+.currency {
+  color: rgb(87, 87, 244);
+}
+.how {
+  color: rgb(87, 87, 244);
+  letter-spacing: 1px;
+}
+
+.hero-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px 0px;
+}
+
+.group1 {
+  padding-left: 5rem;
+  /* border: 1px solid red; */
+  width: 50%;
+}
+
+.group2 {
+  padding-left: 5rem;
+  /* border: 1px solid red; */
+  width: 50%;
+}
+
+.home {
+  color: rgb(87, 87, 244);
+}
+
+.features {
+  color: rgb(208, 204, 204);
+}
+.about {
+  color: rgb(208, 204, 204);
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+.join {
+  margin-left: 10rem;
+}
+/* .organized { */
+/* padding-left: 1.5rem; */
+/* } */
